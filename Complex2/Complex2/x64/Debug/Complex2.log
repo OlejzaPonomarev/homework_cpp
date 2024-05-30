@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\homework_cpp\Complex2\Complex2\main.cpp(36,1): warning C4172: возвращение адреса локальной или временной переменной : temp
+  Complex2.vcxproj -> D:\homework_cpp\Complex2\x64\Debug\Complex2.exe
