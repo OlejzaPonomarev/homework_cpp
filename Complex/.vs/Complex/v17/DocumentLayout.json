@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\homework_cpp\\Complex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680FB98B-C0FD-45D1-84A7-1D5E90C2B0E5}|Complex\\Complex.vcxproj|D:\\homework_cpp\\Complex\\Complex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{680FB98B-C0FD-45D1-84A7-1D5E90C2B0E5}|Complex\\Complex.vcxproj|solutionrelative:Complex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\homework_cpp\\Complex\\Complex\\main.cpp",
+              "RelativeDocumentMoniker": "Complex\\main.cpp",
+              "ToolTip": "D:\\homework_cpp\\Complex\\Complex\\main.cpp",
+              "RelativeToolTip": "Complex\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T08:53:57.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
