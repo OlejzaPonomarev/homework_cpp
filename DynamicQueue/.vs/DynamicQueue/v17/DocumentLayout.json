@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\homework_cpp\\DynamicQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79FED674-C04D-4E57-B402-D1B069DDCE9A}|DynamicQueue\\DynamicQueue.vcxproj|D:\\homework_cpp\\DynamicQueue\\DynamicQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79FED674-C04D-4E57-B402-D1B069DDCE9A}|DynamicQueue\\DynamicQueue.vcxproj|solutionrelative:DynamicQueue\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\homework_cpp\\DynamicQueue\\DynamicQueue\\main.cpp",
+              "RelativeDocumentMoniker": "DynamicQueue\\main.cpp",
+              "ToolTip": "D:\\homework_cpp\\DynamicQueue\\DynamicQueue\\main.cpp",
+              "RelativeToolTip": "DynamicQueue\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T09:11:48.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
