@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\homework_cpp\String\String\main.cpp(15,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\homework_cpp\String\String\main.cpp(151,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  String.vcxproj -> D:\homework_cpp\String\x64\Debug\String.exe
